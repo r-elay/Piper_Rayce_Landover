@@ -21,7 +21,7 @@ Formulas
   . omega = rotational speed of blade (rad/s)
   . r = radius of blade (m)
   . mu = initial velocity of turbine (m/s)
-+Operation & maintenence 
++Operation & maintenance 
 = sigma(OMCI) / energy
 -Where
   . OMCI = O&M cost / yr
