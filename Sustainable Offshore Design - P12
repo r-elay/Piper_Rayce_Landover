@@ -1,0 +1,39 @@
+#Sustainable Offshore Design   November | P12
+^-Example : (C Program to Print T Chart Pattern "Inputs (Haves) Output ^-_~")
+~. Articles
+~. Formulas
+~!? 
+~. What - Idea
+_-Test & Scale
+~.Where - Purpose for
+~.Why - $ & Information
+~.Started/ 11-3
+~h/L = Relative depth
+~h = water depth   shallow <.5
+~L = wave length   Int. .05 < > .5
+~   Deep >.5
+--Creation - composite 
+offshore construction
+  (marine restoration)
+--Energy Production (pg 5)
+-(1) S= (C Program to Print ^_ "Nsubscript'b'C/2'pi'Rsubscript'mid'")
+-Where   C = Constant chord
+-   Nsubscriptb = # of blades
+-   Rsubsciptmid = midspan of radius
+-   S = Solidity
+-(2) Rsubscriptmid = (C Program to Print ^_ "(1+h)Rsubscript'tip'/2")
+-Where   Rsubsripttip = Tip span radius
+-   h = hub-to-tip ration
+-_~w/h = Rsubscripthub/Rsubscripttip
+Parameters - And#
+{
+ Department of Construction Science, College of Architecture, Texas A&M University, College Station, TX, 2022.
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "IEEE"
+}
+flow coeeficent U*, stagnation pressure drop, coefficient deltaP*, tourque coefficient T*, & efficiency lambda
